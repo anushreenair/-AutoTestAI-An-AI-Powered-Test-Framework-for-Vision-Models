@@ -4,7 +4,7 @@ AutoTestAI is a lightweight yet powerful test framework built to evaluate comput
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 📷 **Image Classification** using MobileNetV2 (pre-trained on ImageNet)
 - ⏱️ **Inference Time Measurement**
@@ -37,3 +37,5 @@ AutoTestAI/
 ├── performance_log.csv           # Logged metrics (created after running)
 ├── README.md                     # Project overview and instructions
 └── assets/                       # (Optional) Images or documentation files
+
+Feel free to modify 
